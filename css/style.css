@@ -1,0 +1,35 @@
+.d-flex{
+    display: flex;
+}
+
+.jc-center{
+    justify-content: center;
+}
+
+.ai-center{
+    align-items: center;
+}
+
+.mh-100vh{
+    min-height: 100vh;
+}
+
+.fd-column{
+    flex-direction: column;
+}
+
+.br-20{
+    border-radius: 20px;
+}
+
+.p-5{
+    padding: .5rem;
+}
+
+.g-2{
+    gap: .2rem;
+}
+
+.w-500px{
+    width: 500px;
+}
